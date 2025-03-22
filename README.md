@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, Julio Araujo's here!</h1>
-<h3 align="center">👋 I hope you enjoy my projects, feel free to ask anything!</h3>
+<h3 align="center">I hope you enjoy my projects, feel free to ask anything!</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=julioaraujo&color=blue" alt="Profile views" />
