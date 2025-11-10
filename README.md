@@ -12,7 +12,7 @@
   🚀 Love in building and planning new stuff for the world! 
 </p>
 <p>
-  📍 São Paulo, Brasil  
+  📍 São Paulo, Brasil/Dublin, Ireland
 </p>
 
 
