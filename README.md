@@ -55,6 +55,6 @@ Focused on clean architecture, performance and maintainable code.
   </a>
 
   <a href="https://knowjulioaraujo.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
