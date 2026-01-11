@@ -1,20 +1,27 @@
-<h1 align="center">👋 Hey, Julio Araujo's here!</h1>
-<h3 align="center">I hope you enjoy my projects, feel free to ask anything!</h3>
+<h1 align="center">Julio Araujo</h1>
+<h3 align="center">Software Engineer · Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JulioRios00&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JulioRios00&color=0e75b6" alt="Profile views" />
 </p>
 
 ---
 
-💻 Software Engineer | Full-Stack Developer  
+### Profile
 
-<p>🚀 Love building and planning new stuff for the world!</p>
-<p>📍 Dublin, Ireland</p>
+<p>
+Full-Stack Software Engineer with experience building scalable web applications and APIs.<br/>
+Strong background in Python, JavaScript/TypeScript and modern frameworks.<br/>
+Focused on clean architecture, performance and maintainable code.
+</p>
+
+<p>
+ Dublin, Ireland (EU-based)
+</p>
 
 ---
 
-### 🚀 Technologies and Tools
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -30,22 +37,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Activity
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=JulioRios00&show_icons=true&theme=radical&rank_icon=github"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioRios00&layout=compact&theme=radical&langs_count=8"
+    src="https://streak-stats.demolab.com?user=JulioRios00&theme=radical&hide_border=true"
   />
 </p>
 
 ---
 
-### 📫 How to find me
+### 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-araujo-a7719267/" target="_blank">
