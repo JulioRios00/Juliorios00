@@ -47,10 +47,14 @@ Focused on clean architecture, performance and maintainable code.
 
 ---
 
-### 📫 Contact
+### Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/julio-araujo-a7719267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://knowjulioaraujo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
